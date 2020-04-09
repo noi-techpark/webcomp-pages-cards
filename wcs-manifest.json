@@ -1,0 +1,31 @@
+{
+  "title": "webcomp-pages-cards",
+  "description": "Component for showing various information using a list of cards.",
+  "descriptionAbstract": "Cards component",
+  "license": "AGPL-3.0",
+  "repositoryUrl": "https://github.com/noi-techpark/webcomp-pages-cards",
+  "authors": [
+    {
+      "name": "NOI",
+      "email": "info@noi.bz.it",
+      "organization": "NOI S.p.A",
+      "organizationUrl": "https://noi.bz.it"
+    },
+    {
+      "name": "Daniel Rampanelli",
+      "email": "hello@danielrampanelli.com"
+    }
+  ],
+  "image": null,
+  "searchTags": ["pages", "cards"],
+  "dist": {
+    "basePath": "dist",
+    "files": [
+      "pages-cards.min.js"
+    ]
+  },
+  "configuration": {
+    "tagName": "pages-cards",
+    "options": []
+  }
+}
